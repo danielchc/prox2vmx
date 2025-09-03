@@ -12,10 +12,10 @@ This script converts a Proxmox Virtual Environment (PVE) VM into a VMware-compat
 - 
 ## 📥 Download
 
-To download the script, use the following command (replace the placeholder with the actual URL):
+To download the script, use the following command:
 
 ```bash
-curl  -O  <URL_TO_SCRIPT>
+curl  -O  files.chenel.xyz/prox2vmx.py
 ```
   
 
